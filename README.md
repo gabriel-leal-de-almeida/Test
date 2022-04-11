@@ -1,2 +1,2 @@
 # Test
-Just to test githubs's repositories.
+Just to test Githubs's repositories.
